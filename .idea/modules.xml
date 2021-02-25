@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Automated_Testing_TDD.iml" filepath="$PROJECT_DIR$/.idea/Automated_Testing_TDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fizzbuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/Fizzbuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NextDayCalculator/NextDayCalculator.iml" filepath="$PROJECT_DIR$/NextDayCalculator/NextDayCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TriangleClassifier/TriangleClassifier.iml" filepath="$PROJECT_DIR$/TriangleClassifier/TriangleClassifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/absolute-number-calculator/absolute-number-calculator.iml" filepath="$PROJECT_DIR$/absolute-number-calculator/absolute-number-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-absolute-number-calculator/java-absolute-number-calculator.iml" filepath="$PROJECT_DIR$/java-absolute-number-calculator/java-absolute-number-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit-simple-calculator/junit-simple-calculator.iml" filepath="$PROJECT_DIR$/junit-simple-calculator/junit-simple-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/absolute-number-calculator/test.iml" filepath="$PROJECT_DIR$/absolute-number-calculator/test.iml" />
+    </modules>
+  </component>
+</project>
